@@ -13,6 +13,5 @@ Another trend in tech education is the rise of bootcamps, which are intensive, s
 🖇️ 𝐋𝐢𝐧𝐤𝐭𝐫𝐞𝐞: https://linktr.ee/techeducationworld
 
 𝗙𝗼𝗹𝗹𝗼𝘄 𝘂𝘀:
-
 𝘛𝘦𝘤𝘩 𝘌𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯 𝘞𝘰𝘳𝘭𝘥 ™
 ᴊᴏɪɴ ᴜꜱ ᴛᴇᴡ ™ ᴀɴᴅ ɢʀᴏᴡ ♥
