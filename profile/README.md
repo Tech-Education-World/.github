@@ -3,7 +3,7 @@
 Free Learning • Internships • Projects • Career Opportunities
 
 <p align="center">
-  <img src="https://i.ibb.co/7Rdk9gC/tew-banner.png" alt="Tech Education World Banner"/>
+  <img src="https://i.ibb.co/7Rdk9gC/tew-banner.jpeg" alt="Tech Education World Banner"/>
 </p>
 ---
 
