@@ -1,4 +1,4 @@
-</p Tech Education World p>
+</p Tech Education World>
 
 Free Learning • Internships • Projects • Career Opportunities
 
