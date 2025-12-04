@@ -1,4 +1,4 @@
-# Tech Education World ™
+# Tech Education World™
 
 Free Learning • Internships • Projects • Career Opportunities
 
@@ -8,7 +8,7 @@ Free Learning • Internships • Projects • Career Opportunities
 
 ---
 
-🚀 About Us
+## 🚀 About Us
 
 Tech Education World is a free learning and career-building platform dedicated to helping students grow through online courses, internships, coding competitions, hackathons, workshops, and job opportunities.
 
@@ -17,14 +17,14 @@ We focus on practical learning to help students build real projects in Web Devel
 
 ---
 
-🎯 Our Mission
+## 🎯 Our Mission
 
 To make quality education, real-world experience, and career opportunities accessible to every student — at zero cost.
 
 
 ---
 
-⭐ What We Offer
+## ⭐ What We Offer
 
 🧑‍💻 Free Courses & Workshops
 
@@ -44,7 +44,7 @@ Cyber Security
 
 ---
 
-🎓 Internships (Free)
+## 🎓 Internships (Free)
 
 Hands-on internship programs with tasks, mentorship, and certificates.
 
@@ -66,21 +66,21 @@ Cyber Security
 
 ---
 
-🏆 Competitions & Hackathons
+## 🏆 Competitions & Hackathons
 
 Regular coding competitions and team hackathons to boost confidence and skills.
 
 
 ---
 
-🛠 Projects & Practice
+## 🛠 Projects & Practice
 
 We publish real-world projects for students to practice and build portfolios.
 
 
 ---
 
-📁 Main Repositories
+## 📁 Main Repositories
 
 Repository	Description
 
@@ -94,17 +94,17 @@ Student Assignments	Assignment templates for learners
 
 ---
 
-🧪 Tech Stack We Use
+## 🧪 Tech Stack We Use
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,tensorflow,pytorch,mongodb,mysql,git,github" />
 
 ---
 
-🤝 Join Our Community
+## 🤝 Join Our Community
 
 We welcome learners, developers, educators, and contributors.
 
-🌐 Official Links
+## 🌐 Official Links
 
 🔗 Linktree: https://linktr.ee/techeducationworld
 💼 LinkedIn: https://www.linkedin.com/company/tech-education-world
@@ -116,7 +116,7 @@ We welcome learners, developers, educators, and contributors.
 
 ---
 
-📢 Contribute
+## 📢 Contribute
 
 Want to contribute to our open-source projects?
 Just drop a message — we love working with passionate learners ❤️
