@@ -1,4 +1,4 @@
-<p Tech Education World </p>
+<p Tech Education World /p>
 
 Free Learning • Internships • Projects • Career Opportunities
 
@@ -97,6 +97,7 @@ Student Assignments	Assignment templates for learners
 🧪 Tech Stack We Use
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,tensorflow,pytorch,mongodb,mysql,git,github" />
+
 ---
 
 🤝 Join Our Community
