@@ -3,7 +3,7 @@
 Free Learning • Internships • Projects • Career Opportunities
 
 <p align="center">
-  <img src="file_0000000058c472079c31500fdacdffa0.jpg" alt="Tech Education World Banner" />
+  <img src="https://github.com/Tech-Education-World/assets/blob/c2a149d0060db86e695ff29e10f163bb62987496/file_0000000058c472079c31500fdacdffa0.jpg" alt="Tech Education World Banner" />
 </p>
 
 ---
