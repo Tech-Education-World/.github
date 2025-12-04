@@ -1,18 +1,127 @@
-𝗧𝗲𝗰𝗵 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 𝗪𝗼𝗿𝗹𝗱 is an 𝗘-𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 platform. We are provided learning courses, internship programs and freshers jobs opportunities for students and working professionals. If you want to be interested in this type of opportunity.
+🌍 Tech Education World
 
-The world of tech education is constantly evolving as new technologies emerge and the demand for skilled professionals in the industry continues to grow. In recent years, there has been a significant increase in the number of people seeking tech.
+Free Learning • Internships • Projects • Career Opportunities
 
-One of the biggest trends in tech education is online learning, which allows students to access courses and programs from anywhere in the world. Many online learning platforms offer a wide range of tech-related courses, from coding and web development to data science and cybersecurity
+<p align="center">
+  <img src="mnt/data/A_digital_graphic_banner_features_a_logo_and_text_.png" alt="Tech Education World Banner"/>
+</p>
+---
 
-Another trend in tech education is the rise of bootcamps, which are intensive, short-term programs that provide students with hands-on experience in a particular field of tech.
+🚀 About Us
 
-𝙵𝚘𝚕𝚕𝚘𝚠 𝚞𝚜 𝚊𝚕𝚕 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜:
+Tech Education World is a free learning and career-building platform dedicated to helping students grow through online courses, internships, coding competitions, hackathons, workshops, and job opportunities.
 
-🌐 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: https://sites.google.com/view/techeducation-world
+We focus on practical learning to help students build real projects in Web Development, Python, AI/ML, Data Science, and Cyber Security.
 
-🖇️ 𝐋𝐢𝐧𝐤𝐭𝐫𝐞𝐞: https://linktr.ee/techeducationworld
 
-𝗙𝗼𝗹𝗹𝗼𝘄 𝘂𝘀:
-𝘛𝘦𝘤𝘩 𝘌𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯 𝘞𝘰𝘳𝘭𝘥 ™
+---
 
-ᴊᴏɪɴ ᴜꜱ ᴛᴇᴡ ™ ᴀɴᴅ ɢʀᴏᴡ ♥
+🎯 Our Mission
+
+To make quality education, real-world experience, and career opportunities accessible to every student — at zero cost.
+
+
+---
+
+⭐ What We Offer
+
+🧑‍💻 Free Courses & Workshops
+
+Beginner to advanced topics, including
+
+Web Development
+
+Python
+
+AI & Machine Learning
+
+Data Science
+
+Cyber Security
+
+
+
+---
+
+🎓 Internships (Free)
+
+Hands-on internship programs with tasks, mentorship, and certificates.
+
+Available categories:
+
+Web Development
+
+Python
+
+Machine Learning
+
+Artificial Intelligence
+
+Data Science
+
+Cyber Security
+
+
+
+---
+
+🏆 Competitions & Hackathons
+
+Regular coding competitions and team hackathons to boost confidence and skills.
+
+
+---
+
+🛠 Projects & Practice
+
+We publish real-world projects for students to practice and build portfolios.
+
+
+---
+
+📁 Main Repositories
+
+Repository	Description
+
+Web Development Projects	Frontend & full-stack sample projects
+Machine Learning Projects	ML models, datasets, notebooks
+AI Projects	Chatbots, emotion detection, NLP projects
+Internship Projects	Tasks & projects for all internship domains
+Student Assignments	Assignment templates for learners
+
+
+
+---
+
+🧪 Tech Stack We Use
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,tensorflow,pytorch,mongodb,mysql,git,github" />
+---
+
+🤝 Join Our Community
+
+We welcome learners, developers, educators, and contributors.
+
+🌐 Official Links
+
+🔗 Linktree: https://linktr.ee/techeducationworld
+💼 LinkedIn: https://www.linkedin.com/company/tech-education-world
+🐦 Twitter (X): https://twitter.com/TechEducationW1
+▶️ YouTube: https://youtube.com/@TechEducationWorld
+🌍 Website: https://sites.google.com/view/techeducation-world
+📧 Email: info.techeducationworld@gmail.com
+
+
+---
+
+📢 Contribute
+
+Want to contribute to our open-source projects?
+Just drop a message — we love working with passionate learners ❤️
+
+
+---
+
+💙 Thank You for Being a Part of Tech Education World
+
+Learning never stops — and hum students ko har step par support karte हैं 🚀
